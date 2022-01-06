@@ -10,13 +10,15 @@ function Cards() {
         <div className="cards__wrapper">
           <ul className="cards__items">
             <CardItem
-              src="/images/img-9.jpg"
+              // src="./public/images/img-9.jpg"
+              src="https://github.com/rtripi/React_website_layout/blob/9ca0d3a2673c89690fc90e7be956802f62fca7ea/images/img-9.jpg?raw=true"
               text="Explore the hidden waterfall"
               label="Adventure"
               path="/services"
             />
             <CardItem
-              src="/images/img-8.jpg"
+              // src="./public/images/img-8.jpg"
+              src="https://github.com/rtripi/React_website_layout/blob/9ca0d3a2673c89690fc90e7be956802f62fca7ea/images/img-8.jpg?raw=true"
               text="Explore the desert"
               label="Adventure"
               path="/services"
@@ -24,25 +26,29 @@ function Cards() {
           </ul>
           <ul className="cards__items">
             <CardItem
-              src="/images/img-7.jpg"
+              // src="/images/img-7.jpg"
+              src="https://github.com/rtripi/React_website_layout/blob/9ca0d3a2673c89690fc90e7be956802f62fca7ea/images/img-7.jpg?raw=true"
               text="Hiking season"
               label="Adventure"
               path="/services"
             />
             <CardItem
-              src="/images/img-6.jpg"
+              // src="/images/img-6.jpg"
+              src="https://github.com/rtripi/React_website_layout/blob/9ca0d3a2673c89690fc90e7be956802f62fca7ea/images/img-6.jpg?raw=true"
               text="The city"
               label="Turism"
               path="/services"
             />
             <CardItem
-              src="/images/img-7.jpg"
+              // src="/images/img-7.jpg"
+              src="https://github.com/rtripi/React_website_layout/blob/9ca0d3a2673c89690fc90e7be956802f62fca7ea/images/img-7.jpg?raw=true"
               text="Hiking season"
               label="Adventure"
               path="/services"
             />
             <CardItem
-              src="/images/img-6.jpg"
+              // src="/images/img-6.jpg"
+              src="https://github.com/rtripi/React_website_layout/blob/9ca0d3a2673c89690fc90e7be956802f62fca7ea/images/img-6.jpg?raw=true"
               text="The city"
               label="Turism"
               path="/services"
